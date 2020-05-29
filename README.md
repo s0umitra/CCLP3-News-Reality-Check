@@ -11,6 +11,6 @@ This is a FAKE-REAL status predictor for news.
 #### License
 
 
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](https://github.com/s0umitra/News-Reality-Check/blob/master/LICENSE)
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](https://github.com/s0umitra/CCLP3-News-Reality-Check/blob/master/LICENSE)
 
-This software is licenced under [MIT](https://github.com/s0umitra/News-Reality-Check/blob/master/LICENSE)
+This software is licenced under [MIT](https://github.com/s0umitra/CCLP3-News-Reality-Check/blob/master/LICENSE)
